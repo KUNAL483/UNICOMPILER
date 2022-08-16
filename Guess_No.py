@@ -33,7 +33,7 @@ def odd_even(secret_number):
 
 
 def guess():
-    print(secret_number)
+    
     print ("--------Welcome To the Number Guessing Game -----")
     print ("-----RULES---")
     print ("You'll be given 5 chances to guess the secret number .....Good Luck")
